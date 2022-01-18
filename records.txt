@@ -1,0 +1,7 @@
+
+ ('upendra', '3389389', 'male', 'f388388', 'card', 0)
+ ('upendra', '3389389', 'male', 'f388388', 'card', 1)
+ ('upendra', '3389389', 'male', 'f388388', 'card', 1)
+ ('upendra', '3389389', 'male', 'f388388', 'card', 1)
+ ('rocky', '3389389', 'male', 'f388388', 'card', 1)
+ 
